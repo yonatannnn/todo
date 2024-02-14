@@ -1,0 +1,28 @@
+/* AddActivity.css */
+
+.add-activity {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+input {
+    margin: 5px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #ccff12;
+}
+
+button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
