@@ -49,3 +49,22 @@
     color: #000000;
     font-weight: 700;
 }
+
+.activities {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-items: start;
+}
+
+.add{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 8px;
+    border-radius: 8px;
+    margin: 8px;
+}

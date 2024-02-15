@@ -5,6 +5,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
+  display: flex;
 }
 
 .App{
@@ -15,11 +16,11 @@ body{
   padding: 8px;
   border-radius: 10px;
   border-style: outset;
+  display: flex;
 }
 
 .activities{
   display: flex;
-  flex-wrap: wrap;
   gap: 20px;
   justify-content: center;
   align-items: start;
